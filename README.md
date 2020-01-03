@@ -1,3 +1,13 @@
+### screenshots
+
+![alt text](https://raw.githubusercontent.com/harinathpamu/QuakeReport/master/screenshots/Screenshot_1.png "Screenshot_1")
+![alt text](https://raw.githubusercontent.com/harinathpamu/QuakeReport/master/screenshots/Screenshot_2.png "Screenshot_2")
+![alt text](https://raw.githubusercontent.com/harinathpamu/QuakeReport/master/screenshots/Screenshot_3.png "Screenshot_3")
+![alt text](https://raw.githubusercontent.com/harinathpamu/QuakeReport/master/screenshots/Screenshot_4.png "Screenshot_4")
+![alt text](https://raw.githubusercontent.com/harinathpamu/QuakeReport/master/screenshots/Screenshot_5.png "Screenshot_5")
+![alt text](https://raw.githubusercontent.com/harinathpamu/QuakeReport/master/screenshots/Screenshot_6.png "Screenshot_6")
+![alt text](https://raw.githubusercontent.com/harinathpamu/QuakeReport/master/screenshots/Screenshot_7.png "Screenshot_7")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
